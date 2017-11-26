@@ -1,0 +1,200 @@
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+c:\users\usuario 1\documents\visual studio 2015\Projects\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\RicardoDaniel\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.VentanaPrincipal.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Frm_Administradro.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+C:\Users\jose_\Desktop\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Frm_Administradro.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+E:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Frm_Administradro.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+G:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearMaestro.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+F:\7mo Semestre\Ing. Software\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultaMaestro.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultarCopias.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearMaestro.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarProducto.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultarProductos.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EntradaProducto.resources
+C:\Users\Usuario 1\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.SalidaProductos.resources
+F:\7mo Semestre\Ing. Software\PaperSystem3\PaperSystem\bin\Debug\PaperSystem.exe.config
+F:\7mo Semestre\Ing. Software\PaperSystem3\PaperSystem\obj\Debug\PaperSystem.exe
+F:\7mo Semestre\Ing. Software\PaperSystem3\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\Usuario 1\Desktop\Programas Para Luz\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\Usuario 1\Desktop\Programas Para Luz\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\Usuario 1\Desktop\Programas Para Luz\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultaMaestro.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultarCopias.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultarProductos.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearMaestro.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EntradaProducto.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarProducto.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.SalidaProductos.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+C:\Users\VictorAlejandro\Desktop\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultaMaestro.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultarCopias.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.ConsultarProductos.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearMaestro.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.EntradaProducto.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.RegistrarProducto.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.SalidaProductos.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+C:\Users\VictorAlejandro\Documents\ITH\8 vo Semestre\PaperSystem\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+E:\Paper System\PaperSystem Version 2\PaperSystem\bin\Debug\PaperSystem.exe.config
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.exe
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.pdb
+E:\Paper System\PaperSystem Version 2\PaperSystem\bin\Debug\PaperSystem.exe
+E:\Paper System\PaperSystem Version 2\PaperSystem\bin\Debug\PaperSystem.pdb
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.ConsultaMaestro.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.ConsultarCopias.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.ConsultarProductos.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.CrearMaestro.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.EntradaProducto.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.RegistrarProducto.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.SalidaProductos.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+E:\Paper System\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.pdb
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\bin\Debug\PaperSystem.exe
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\bin\Debug\PaperSystem.pdb
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.csprojResolveAssemblyReference.cache
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.ConsultaMaestro.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.ConsultarCopias.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.ConsultarProductos.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.CrearMaestro.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.CrearUsuario.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.EliminarUsuario.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.EntradaProducto.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Form1.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Principal.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Properties.Resources.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.RegistrarCopiaEimpresionescs.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.RegistrarProducto.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.SalidaProductos.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
+C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
