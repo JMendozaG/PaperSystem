@@ -198,3 +198,6 @@ C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Deb
 C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Vistas.Utilerías.AdministraciónUsuarios.resources
 C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.Vistas.VistaPrincipal.resources
 C:\Users\Usuario 1\Desktop\PDM [0.3.7]\PaperSystem Version 2\PaperSystem\obj\Debug\PaperSystem.csproj.GenerateResource.Cache
+C:\Users\jose_\OneDrive\Documents\PaperSystem\PaperSystem\PaperSystem\bin\Debug\PaperSystem.exe.config
+C:\Users\jose_\OneDrive\Documents\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.exe
+C:\Users\jose_\OneDrive\Documents\PaperSystem\PaperSystem\PaperSystem\obj\Debug\PaperSystem.pdb
